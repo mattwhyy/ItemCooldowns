@@ -3,7 +3,7 @@ version: '1.01'
 main: net.mattwhyy.ItemCooldowns.ItemCooldowns
 api-version: '1.19'
 authors: [ mattwhyy ]
-description: Completely disable netherite items
+description: Allows you to easily set a cooldown for any item
 commands:
   setcooldown:
     description: Set a cooldown for an item
