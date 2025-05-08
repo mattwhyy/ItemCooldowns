@@ -1,4 +1,6 @@
 [Modrinth](https://modrinth.com/plugin/itemcooldowns) | [Discord](https://discordapp.com/users/555629040455909406) | [GitHub](https://github.com/mattwhyy/ItemCooldowns)
+
+![project version](https://img.shields.io/modrinth/v/itemcooldowns) ![game versions](https://img.shields.io/modrinth/game-versions/itemcooldowns?color=yellow) ![project downloads](https://img.shields.io/modrinth/dt/itemcooldowns) ![platforms](https://img.shields.io/badge/build-paper%20purpur-brightgreen?style=flat&label=platforms&color=purple)
 # ItemCooldowns
 **ItemCooldowns** is a lightweight plugin that allows you to easily set the cooldown of **ANY** item!
 
